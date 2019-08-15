@@ -1,4 +1,17 @@
 {
+    "Add Vue component": {
+		"prefix": "comp",
+		"body": [
+			"<template>",
+			"    ",
+			"</template>",
+			"<script>",
+			"export default {",
+			"    $0",
+			"}",
+			"</script>"
+		]
+	},
     "templateLang": {
         "prefix": "templateLang",
         "body": [
